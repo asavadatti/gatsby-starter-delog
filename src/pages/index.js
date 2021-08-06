@@ -19,7 +19,7 @@ const IndexPage = ({
   return (
     <Layout>
       <Helmet>
-        <script>{`https://identity.netlify.com/v1/netlify-identity-widget.js`}
+        <script>{`https://identity.netlify.com/v1/netlify-identity-widget.js`}</script>
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
