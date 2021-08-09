@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /hello-world
+path: /parking-in-san-francisco
 date: 2021-08-08T22:08:00.000Z
 title: Parking in San Francisco
 metaDescription: Finding parking in San Francisco
