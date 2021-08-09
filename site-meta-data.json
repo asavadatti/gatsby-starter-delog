@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Thoughts and Stuff",
+  "siteUrl": "https://savadatti.com/",
+  "description": "",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi! I'm Akshay",
+    "description": "Hi there! Welcome to my blog.\n\nI occasionally write about my hobbies, my profession, and my life in San Francisco."
   }
 }
